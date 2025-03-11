@@ -1,0 +1,12 @@
+{
+    "projects": [
+        {
+            "name": "IV Codder",
+            "description": "The official IV Codder app for Android game development and modding. Features include easy APK editing, resource management, and more.",
+            "author": "IVCODDER",
+            "apkUrl": "https://github.com/ivcodder/community-projects/releases/download/v1.0/ivcodder.apk",
+            "screenshots": ["https://raw.githubusercontent.com/ivcodder/community-projects/main/screenshots/ivcodder1.png"],
+            "githubUrl": "https://github.com/ivcodder/ivcodder-app"
+        }
+    ]
+}
