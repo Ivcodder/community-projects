@@ -7,6 +7,14 @@
             "apkUrl": "https://github.com/ivcodder/community-projects/releases/download/v1.0/ivcodder.apk",
             "screenshots": ["https://raw.githubusercontent.com/ivcodder/community-projects/main/screenshots/ivcodder1.png"],
             "githubUrl": "https://github.com/ivcodder/ivcodder-app"
+        },
+        {
+            "name": "Test Project",
+            "description": "A test project to verify the GitHub integration is working correctly.",
+            "author": "Test User",
+            "apkUrl": "https://github.com/ivcodder/community-projects/releases/download/test-v1.0/test.apk",
+            "screenshots": ["https://raw.githubusercontent.com/ivcodder/community-projects/main/screenshots/test_screenshot.png"],
+            "email": "test@example.com"
         }
     ]
 }
